@@ -1,0 +1,43 @@
+employee-registration application uses to give a form to enter the employee details like name, address, email, password, telephone, designation, comment which will be saved to mongodb data base.
+Once the details are entered we are able to edit the employee details and we are allowed to delete the details of individual employees also
+Note: Here comments filed is optional
+
+
+Tools Used:
+
+1.Node.js(download it from https://nodejs.org/en/)
+2.Mongodb(download if from https://www.mongodb.com/download-center?jmp=nav)
+Note:  To download Mongodb u need to signup with u r persoanl email id
+3.Pug(Install using npm install pug --save)
+4.Javascript
+5.Express.js(Install using npm install express --save)
+6.MVC Framework
+
+
+Refereces:
+
+1.https://www.tutorialspoint.com/nodejs/
+2.https://www.tutorialspoint.com/mongodb/
+3.https://www.tutorialspoint.com/expressjs/
+4.https://www.tutorialspoint.com/javascript/
+5.https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm
+6.https://codeburst.io/getting-started-with-pug-template-engine-e49cfa291e33
+
+
+Steps to Create the application
+
+Create a new directory:
+
+mkdir express-register
+cd express-register
+
+Create the Package.json file:
+
+https://www.journaldev.com/7553/importance-of-package-json-in-node-js-applications
+
+use the 'npm init' command to create package.json file
+
+
+
+
+
